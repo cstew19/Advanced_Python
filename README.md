@@ -1,4 +1,4 @@
-# Advanced_Python
+# Advanced_Python_Portfolio
 This the portfolio for the code I learned taking BISC 4503: Advanced Python
 
 ## Sequence Objects
